@@ -1,0 +1,9 @@
+{
+  "parent": "ch_knkl:custom/netheriteknuckles",
+  "textures": {
+    "11": "ch_knkl:block/nt_tx3",
+    "9": "ch_knkl:block/nt_tx1",
+    "10": "ch_knkl:block/nt_tx2",
+    "particle": "ch_knkl:item/netheriteknuckles"
+  }
+}

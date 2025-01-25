@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "gold_tx1",
+        "4": "gold_tx2",
+        "5": "gold_tx3"
+      },
+      "name": "default"
+    }
+  }
+}

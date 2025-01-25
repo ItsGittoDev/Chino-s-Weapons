@@ -1,0 +1,9 @@
+{
+  "parent": "ch_knkl:custom/ironknuckles",
+  "textures": {
+    "0": "ch_knkl:block/texture1",
+    "1": "ch_knkl:block/texture2",
+    "2": "ch_knkl:block/texture3",
+    "particle": "ch_knkl:item/ironknuckles"
+  }
+}

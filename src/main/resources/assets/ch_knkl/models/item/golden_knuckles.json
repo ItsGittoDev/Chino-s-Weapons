@@ -1,0 +1,9 @@
+{
+  "parent": "ch_knkl:custom/goldenknuckles",
+  "textures": {
+    "3": "ch_knkl:block/gold_tx1",
+    "4": "ch_knkl:block/gold_tx2",
+    "5": "ch_knkl:block/gold_tx3",
+    "particle": "ch_knkl:item/goldenknuckles"
+  }
+}

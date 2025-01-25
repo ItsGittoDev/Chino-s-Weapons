@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ch_knkl:copper_knuckles",
+    "ch_knkl:netherite_knuckles",
+    "ch_knkl:diamond_knuckles",
+    "ch_knkl:golden_knuckles",
+    "ch_knkl:iron_knuckles"
+  ]
+}

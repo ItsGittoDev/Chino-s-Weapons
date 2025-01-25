@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Not specified"
+
+[[mods]]
+modId="ch_knkl"
+version="1.0.0"
+displayName="Chino's Weapons"
+displayURL="https://youtube.com/@ItsGitto"
+logoFile="logo.png"
+credits="Mod inspired by Chino's Weapon Idea Short. (https://www.youtube.com/watch?v=YlRUgWmW4S8) Created with MCreator."
+authors="ItsGitto"
+description="This is a mod that was made to make true Chino's weapon idea video. It was pretty fun for me to make this mod, I really enjoyed it! Hope you also like it too."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.ch_knkl]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.ch_knkl]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

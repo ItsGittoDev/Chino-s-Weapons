@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "12": "cp_tx1",
+        "13": "ctx2",
+        "14": "cptx3"
+      },
+      "name": "default"
+    }
+  }
+}

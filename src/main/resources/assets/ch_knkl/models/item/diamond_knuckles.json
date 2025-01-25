@@ -1,0 +1,9 @@
+{
+  "parent": "ch_knkl:custom/diamondknuckles",
+  "textures": {
+    "6": "ch_knkl:block/dm_tx1",
+    "7": "ch_knkl:block/dm_tx2",
+    "8": "ch_knkl:block/dm_tx3",
+    "particle": "ch_knkl:item/diamondknuckles"
+  }
+}

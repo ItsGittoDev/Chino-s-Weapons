@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "6": "dm_tx1",
+        "7": "dm_tx2",
+        "8": "dm_tx3"
+      },
+      "name": "default"
+    }
+  }
+}

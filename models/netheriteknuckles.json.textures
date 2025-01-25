@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "11": "nt_tx3",
+        "9": "nt_tx1",
+        "10": "nt_tx2"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "ch_knkl:custom/copperknuckles",
+  "textures": {
+    "12": "ch_knkl:block/cp_tx1",
+    "13": "ch_knkl:block/ctx2",
+    "14": "ch_knkl:block/cptx3",
+    "particle": "ch_knkl:item/copperknuckles"
+  }
+}
