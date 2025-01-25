@@ -1,0 +1,293 @@
+{
+  "mod_elements": [
+    {
+      "name": "IronKnucklesToolInHandTick",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knuckle_attack_check",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/procedures/IronKnucklesToolInHandTickProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CheckEquippedItem",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "check_equipped_item",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/procedures/CheckEquippedItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IronKnucklesRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_knuckles_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/recipe/iron_knuckles_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "IronKnuckles",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iron_knuckles",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/item/IronKnucklesItem.java",
+          "src/main/resources/assets/ch_knkl/models/item/iron_knuckles.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldenKnuckles",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_knuckles",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/item/GoldenKnucklesItem.java",
+          "src/main/resources/assets/ch_knkl/models/item/golden_knuckles.json"
+        ]
+      }
+    },
+    {
+      "name": "GoldenKnucklesRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_knuckles_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/recipe/golden_knuckles_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondKnuckles",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_knuckles",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/item/DiamondKnucklesItem.java",
+          "src/main/resources/assets/ch_knkl/models/item/diamond_knuckles.json"
+        ]
+      }
+    },
+    {
+      "name": "DiamondKnucklesRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_knuckles_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/recipe/diamond_knuckles_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LeatherSlides",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leather_slides",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/item/LeatherSlidesItem.java",
+          "src/main/resources/assets/ch_knkl/models/item/leather_slides_boots.json"
+        ]
+      }
+    },
+    {
+      "name": "LeatherSlidesRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leather_slides_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/recipe/leather_slides_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteKnuckles",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_knuckles",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ch_knkl/models/item/netherite_knuckles.json",
+          "src/main/java/net/mcreator/chinosweaponidea/item/NetheriteKnucklesItem.java"
+        ]
+      }
+    },
+    {
+      "name": "KnuckleSandwich",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knuckle_sandwich",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/advancement/knuckle_sandwich.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteKnucklesRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netherite_knuckles_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/recipe/netherite_knuckles_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperKnuckles",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_knuckles",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/item/CopperKnucklesItem.java",
+          "src/main/resources/assets/ch_knkl/models/item/copper_knuckles.json"
+        ]
+      }
+    },
+    {
+      "name": "CopperKnucklesRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_knuckles_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ch_knkl/recipe/copper_knuckles_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "KnuckleSpecialInfo",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "knuckle_special_info",
+      "metadata": {
+        "return_type": "string",
+        "files": [
+          "src/main/java/net/mcreator/chinosweaponidea/procedures/KnuckleSpecialInfoProcedure.java"
+        ],
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:enchantable/durability": [
+      "~CUSTOM:CopperKnuckles",
+      "~CUSTOM:NetheriteKnuckles",
+      "~CUSTOM:DiamondKnuckles",
+      "~CUSTOM:GoldenKnuckles",
+      "~CUSTOM:IronKnuckles"
+    ],
+    "ITEMS:chinomod:knuckles": [
+      "CUSTOM:IronKnuckles",
+      "CUSTOM:GoldenKnuckles",
+      "CUSTOM:DiamondKnuckles",
+      "CUSTOM:NetheriteKnuckles",
+      "CUSTOM:CopperKnuckles"
+    ],
+    "ITEMS:minecraft:foot_armor": [
+      "~CUSTOM:LeatherSlides.boots"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.chinos_weapon_idea.leather_slides_boots.description_0": "",
+      "item.ch_knkl.golden_knuckles": "Golden Knuckle",
+      "item.ch_knkl.diamond_knuckles": "Diamond Knuckle",
+      "item.chinos_weapon_idea.netherite_knuckles": "Netherite Knuckle",
+      "item.ch_knkl.netherite_knuckles": "Netherite Knuckle",
+      "item.chinos_weapon_idea.diamond_knuckles": "Diamond Knuckle",
+      "item.chinos_weapon_idea.leather_slides_boots.description_2": "§c-1 Armor",
+      "item.chinos_weapon_idea.leather_slides_boots.description_1": "§a+20% §7Movement Speed",
+      "advancements.knuckle_sandwich.descr": "Obtain a netherite knuckle.",
+      "item.ch_knkl.leather_slides_boots": "Leather Slides",
+      "item.ch_knkl.leather_slides_boots.description_2": "§c-1 Armor",
+      "item.ch_knkl.leather_slides_boots.description_0": "",
+      "item.ch_knkl.leather_slides_boots.description_1": "§a+20% §7Movement Speed",
+      "advancements.knuckle_sandwich.title": "Ready for a Knuckle Sandwich?",
+      "item.chinos_weapon_idea.leather_slides_boots": "Leather Slides",
+      "item.chinos_weapon_idea.iron_knuckles": "Iron Knuckles",
+      "item.chinos_weapon_idea.copper_knuckles": "Copper Knuckle",
+      "item.ch_knkl.copper_knuckles": "Copper Knuckle",
+      "item.chinos_weapon_idea.golden_knuckles": "Golden Knuckle",
+      "item.ch_knkl.iron_knuckles": "Iron Knuckles"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ch_knkl",
+    "modName": "Chino\u0027s Weapons",
+    "version": "1.0.0",
+    "description": "This is a mod that was made to make true Chino\u0027s weapon idea video. It was pretty fun for me to make this mod, I really enjoyed it! Hope you also like it too.",
+    "author": "ItsGitto",
+    "websiteURL": "https://youtube.com/@ItsGitto",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "modPicture": "ironknuckles",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Mod inspired by Chino\u0027s Weapon Idea Short. (https://www.youtube.com/watch?v\u003dYlRUgWmW4S8) Created with MCreator.",
+    "modElementsPackage": "net.mcreator.chinosweaponidea"
+  },
+  "mcreatorVersion": 202400452410
+}
