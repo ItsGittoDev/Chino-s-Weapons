@@ -16,7 +16,7 @@ This mod features 5 new weapons, 1 advancement and a new armor item.
 
 Knuckles grant a 5% speed boost when equipped and they must be dual wielded (one on each hand) for them to deal damage, otherwise the damage is canceled if the item is held alone.
 
-They also deal 1 more damage than their sword counterparts (excluding the copper knuckles as there's no sword counterpart for that)
+They also deal 1 more damage than their sword counterparts (excluding the copper knuckles as there's no sword counterpart for that), and deal more damage to armor and shields.
 
 The leather slides grant a 20% speed boost but will take 1 armor point. (i.e. if you wear diamond armor, you will have 3.5 armor points instead of 4.)
 
